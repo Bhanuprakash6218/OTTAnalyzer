@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ottanalysis">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.OTTAnalysis">
+        <activity android:name=".MainActivity">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".addastimes">
+
+        </activity>
+        <activity android:name=".aha">
+
+        </activity>
+        <activity android:name=".akonline">
+
+        </activity>
+        <activity android:name=".altbalaji">
+
+        </activity>
+        <activity android:name=".amazonprime">
+
+        </activity>
+        <activity android:name=".arre">
+
+        </activity>
+        <activity android:name=".asianet">
+
+        </activity>
+        <activity android:name=".bigflix">
+
+        </activity>
+        <activity android:name=".bsvalue">
+
+        </activity>
+        <activity android:name=".disneyhotstar">
+
+        </activity>
+        <activity android:name=".doncinema">
+
+        </activity>
+        <activity android:name=".erosnow">
+
+        </activity>
+        <activity android:name=".filmybox">
+
+        </activity>
+        <activity android:name=".hoichoi">
+
+        </activity>
+        <activity android:name=".hungama">
+
+        </activity>
+        <activity android:name=".jiocinema">
+
+        </activity>
+        <activity android:name=".manoramamax">
+
+        </activity>
+        <activity android:name=".mubi">
+
+        </activity>
+        <activity android:name=".mxplayer">
+
+        </activity>
+        <activity android:name=".neestream">
+
+        </activity>
+        <activity android:name=".netflix">
+
+        </activity>
+        <activity android:name=".niri9">
+
+        </activity>
+        <activity android:name=".ollyplus">
+
+        </activity>
+        <activity android:name=".planetmarathi">
+
+        </activity>
+        <activity android:name=".shemaroome">
+
+        </activity>
+        <activity android:name=".sonyliv">
+
+        </activity>
+        <activity android:name=".spuul">
+
+        </activity>
+        <activity android:name=".sunnxt">
+
+        </activity>
+        <activity android:name=".tvfplay">
+
+        </activity>
+        <activity android:name=".ullu">
+
+        </activity>
+        <activity android:name=".viki">
+
+        </activity>
+        <activity android:name=".viu">
+
+        </activity>
+        <activity android:name=".voot">
+
+        </activity>
+        <activity android:name=".vuclip">
+
+        </activity>
+        <activity android:name=".watcho">
+
+        </activity>
+        <activity android:name=".yupptv">
+
+        </activity>
+        <activity android:name=".zee5">
+
+        </activity>
+
+
+
+
+
+    </application>
+
+</manifest>
